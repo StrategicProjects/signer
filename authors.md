@@ -15,7 +15,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/StrategicProjects/pdfsigner/blob/v0.2.5/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/StrategicProjects/pdfsigner/blob/main/DESCRIPTION)
 
 Leite A, Vasconcelos H, Bezerra D (2026). *pdfsigner: Digitally Sign and
 Verify PDF Documents*. R package version 0.2.5,
