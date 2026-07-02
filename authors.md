@@ -15,17 +15,17 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/StrategicProjects/pdfsigner/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/StrategicProjects/pdfsigner/blob/v0.2.5/DESCRIPTION)
 
 Leite A, Vasconcelos H, Bezerra D (2026). *pdfsigner: Digitally Sign and
-Verify PDF Documents*. R package version 0.2.4,
+Verify PDF Documents*. R package version 0.2.5,
 <https://github.com/StrategicProjects/pdfsigner>.
 
     @Manual{,
       title = {pdfsigner: Digitally Sign and Verify PDF Documents},
       author = {Andre Leite and Hugo Vasconcelos and Diogo Bezerra},
       year = {2026},
-      note = {R package version 0.2.4},
+      note = {R package version 0.2.5},
       url = {https://github.com/StrategicProjects/pdfsigner},
     }
 
